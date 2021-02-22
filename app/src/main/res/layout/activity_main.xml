@@ -96,21 +96,21 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginStart="30dp"
-                android:layout_marginEnd="120dp"
-                android:layout_weight="0.65">
+                android:layout_marginEnd="140dp"
+                android:layout_weight="0.5">
                 <Button
                     android:id="@+id/c4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
-                    android:layout_marginStart="42dp"
+                    android:layout_marginStart="50dp"
                     android:background="@color/black"/>
                 <Button
                     android:id="@+id/eb4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
-                    android:layout_marginStart="42dp"
+                    android:layout_marginStart="50dp"
                     android:background="@color/black"/>
             </LinearLayout>
 
@@ -118,43 +118,43 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginStart="-15dp"
-                android:layout_marginEnd="30dp"
+                android:layout_marginEnd="80dp"
                 android:layout_weight="0.7">
                 <Button
                     android:id="@+id/f4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
-                    android:layout_marginStart="40dp"
+                    android:layout_marginStart="20dp"
                     android:background="@color/black"/>
                 <Button
                     android:id="@+id/g4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
-                    android:layout_marginStart="40dp"
+                    android:layout_marginStart="50dp"
                     android:background="@color/black"/>
                 <Button
                     android:id="@+id/bb4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
-                    android:layout_marginStart="40dp"
+                    android:layout_marginStart="45dp"
                     android:background="@color/black"/>
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_marginStart="80dp"
+                android:layout_marginStart="70dp"
                 android:layout_marginEnd="0dp"
-                android:layout_weight="0.95">
+                android:layout_weight="0.5">
                 <Button
                     android:id="@+id/c5_b"
-                    android:layout_width="0dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
-                    android:layout_marginStart="20dp"
+                    android:layout_marginStart="0dp"
                     android:background="@color/black"/>
             </LinearLayout>
         </LinearLayout>
