@@ -22,28 +22,28 @@
                 android:layout_height="match_parent"
                 android:layout_weight="0.5"
                 android:orientation="horizontal">
-                <View
+                <Button
                     android:id="@+id/c4"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginStart="4dp"
                     android:layout_weight="0.5"
                     android:background="@android:color/white"/>
-                <View
+                <Button
                     android:id="@+id/d4"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginStart="4dp"
                     android:layout_weight="0.5"
                     android:background="@android:color/white"/>
-                <View
+                <Button
                     android:id="@+id/e4"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginStart="4dp"
                     android:layout_weight="0.5"
                     android:background="@android:color/white"/>
-                <View
+                <Button
                     android:id="@+id/f4"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
@@ -56,28 +56,28 @@
                 android:layout_height="match_parent"
                 android:layout_weight="0.5"
                 android:orientation="horizontal">
-                <View
+                <Button
                     android:id="@+id/g4"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginStart="4dp"
                     android:layout_weight="0.5"
                     android:background="@android:color/white"/>
-                <View
+                <Button
                     android:id="@+id/a4"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginStart="4dp"
                     android:layout_weight="0.5"
                     android:background="@android:color/white"/>
-                <View
+                <Button
                     android:id="@+id/b4"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginStart="4dp"
                     android:layout_weight="0.5"
                     android:background="@android:color/white"/>
-                <View
+                <Button
                     android:id="@+id/c5"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
@@ -98,14 +98,14 @@
                 android:layout_marginStart="30dp"
                 android:layout_marginEnd="120dp"
                 android:layout_weight="0.65">
-                <View
+                <Button
                     android:id="@+id/c4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
                     android:layout_marginStart="42dp"
                     android:background="@color/black"/>
-                <View
+                <Button
                     android:id="@+id/eb4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
@@ -120,21 +120,21 @@
                 android:layout_marginStart="-15dp"
                 android:layout_marginEnd="30dp"
                 android:layout_weight="0.7">
-                <View
+                <Button
                     android:id="@+id/f4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
                     android:layout_marginStart="40dp"
                     android:background="@color/black"/>
-                <View
+                <Button
                     android:id="@+id/g4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
                     android:layout_marginStart="40dp"
                     android:background="@color/black"/>
-                <View
+                <Button
                     android:id="@+id/bb4_b"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
@@ -149,7 +149,7 @@
                 android:layout_marginStart="80dp"
                 android:layout_marginEnd="0dp"
                 android:layout_weight="0.95">
-                <View
+                <Button
                     android:id="@+id/c5_b"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"

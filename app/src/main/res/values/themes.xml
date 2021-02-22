@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.PianoApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.PianoApp" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -18,7 +18,7 @@
         <item name="android:windowContentOverlay">@null</item>
     </style>
     
-    <style name="SplashStyle" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="SplashStyle" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/splash_background</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
